@@ -1,0 +1,59 @@
+.card {
+    width: 33%;
+    background: #c1b6b6e0;
+    text-align: center;
+  }
+
+  .cards-body {
+    width: 33%;
+    background: gray;
+    float: left;
+    border: 2px solid aliceblue;
+    padding: 1;
+    height: 215px;
+  }
+  
+  .images img {
+    /* width: 475px; */
+  }
+  element {
+
+  }
+  body {
+      background: #00ffff14;
+  
+  }
+
+  .cardbody {
+    width: 33%;
+    float: left;
+  }
+
+  .card-left {
+    float: left;
+  }
+
+  .card-right {
+    float: left;
+    width: 60%;
+  }
+
+.wrapper{
+  width: 50%;
+margin: 0 auto;
+margin-top: 56px;
+}
+
+.left {
+  float: left;
+  padding-left: 34px;
+}
+.value.left {
+  margin-top: -1px;
+  padding-left: 24px;
+  background: white;
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid red;
+  border-radius: 4px;
+}
